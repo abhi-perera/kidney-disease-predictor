@@ -8,8 +8,8 @@ A machine learning web application built with Streamlit to train and predict Chr
 - Train classification models
 - Compare model performance
 - Download the best trained model
-- Predict CKD or Not CKD from user input
-- Streamlit-based user interface
+- Predict CKD or Not CKD from patient input
+- Easy-to-use Streamlit interface
 
 ## Tech Stack
 
@@ -20,12 +20,13 @@ A machine learning web application built with Streamlit to train and predict Chr
 - Scikit-learn
 - Joblib
 
-## Project Files
+## Project Structure
 
 - `app.py` - training app
 - `predict_app.py` - prediction app
 - `requirements.txt` - dependencies
 - `README.md` - project documentation
+- `screenshots/` - application screenshots
 
 ## Screenshots
 
@@ -39,5 +40,5 @@ A machine learning web application built with Streamlit to train and predict Chr
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/kidney-disease-predictor.git
+git clone https://github.com/abhi-perera/kidney-disease-predictor.git
 cd kidney-disease-predictor
