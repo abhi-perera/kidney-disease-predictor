@@ -31,10 +31,10 @@ A machine learning web application built with Streamlit to train and predict Chr
 ## Screenshots
 
 ### Training App
-![Training App](screenshots/training-app.png)
+![Training App](./screenshots/training-app.png)
 
 ### Prediction App
-![Prediction App](screenshots/prediction-app.png)
+![Prediction App](./screenshots/prediction-app.png)
 
 ## How to Run Locally
 
